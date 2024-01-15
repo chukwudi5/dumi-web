@@ -1,0 +1,24 @@
+h1 {
+    text-align: center;
+    color: red;
+    font-size: 60px;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    background-color: azure;
+    border: 2px solid blue;
+    padding: 10px;
+    margin: 12px;
+}
+
+h2{
+    display: inline;   /* This will make all h2 inline as opposed to ut being block  */
+}
+
+a {
+    display: block;
+}
+
+img {
+    width: 300px;
+    border: 2px solid yellow;
+    height: 300px;
+}
